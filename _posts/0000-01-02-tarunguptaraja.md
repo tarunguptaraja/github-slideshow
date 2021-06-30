@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Kya Gunda Banega Re Tu...
+Ae Tu Ja Re....
 Use the left arrow to go back!
